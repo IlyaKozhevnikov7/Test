@@ -6,7 +6,11 @@ namespace GitTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int avg = 0;
+
+            int a = 2, b = 3, c = 7;
+
+            Console.WriteLine((a+b+c)/3);
         }
     }
 }
