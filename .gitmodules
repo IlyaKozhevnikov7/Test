@@ -1,3 +1,6 @@
 [submodule "Modules/laboratory-work-3.1"]
 	path = Modules/laboratory-work-3.1
 	url = https://github.com/IlyaKozhevnikov7/laboratory-work-3.1
+[submodule "Modules/socialNetworkReact"]
+	path = Modules/socialNetworkReact
+	url = https://github.com/yefimchuk/socialNetworkReact
