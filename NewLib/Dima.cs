@@ -8,5 +8,6 @@ namespace NewLib
 {
     internal class Dima
     {
+        private string _name;
     }
 }
